@@ -1,0 +1,19 @@
+{
+  "name": "crpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chilkat/ck-node11-win64": "^9.50.83",
+    "@chilkat/ck-node12-win64": "^9.50.83",
+    "@chilkat/ck-node14-win64": "^9.50.83",
+    "node-forge": "^0.9.1",
+    "node-rsa": "^1.1.1",
+    "node-signpdf": "^1.2.3"
+  }
+}
